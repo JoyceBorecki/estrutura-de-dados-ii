@@ -7,7 +7,7 @@ O espelho de uma árvore binária `T`, `esp(T)`, é a árvore binária definida 
 
 ## Exemplo
 
-![Árvore espelho](imagens/image.png)
+![Árvore espelho](imagens/imagem-readme.png)
 
 ## Exercício
 
